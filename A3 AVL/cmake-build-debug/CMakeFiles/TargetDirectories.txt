@@ -1,0 +1,3 @@
+/Users/jiangxiachen/Downloads/2022 - semester 1 - COMP8801/A3 AVL/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/jiangxiachen/Downloads/2022 - semester 1 - COMP8801/A3 AVL/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/jiangxiachen/Downloads/2022 - semester 1 - COMP8801/A3 AVL/cmake-build-debug/CMakeFiles/A3_AVL.dir
